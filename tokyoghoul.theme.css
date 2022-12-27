@@ -1,0 +1,45 @@
+/**
+* @name Tokyo Ghoul
+* @version 1.0
+* @description Discord theme for Tokyo Ghoul fans
+* @donate https://next.privat24.ua/api/p24/requisites/pdf?cardId=L1O7B5X4F4D5TIVH4U2&action=pdf&type=cash_pb&xref=2ef7adebb934e28c23226f3ba00cc389
+* @source https://github.com/Adiru3/tokyoghoultheme/
+* @author Adiru
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+:root {
+--themeColor1: #FF000040;
+--themeColor2: #FF000000;
+--customFont: 'Poppins';
+--homeImage: url('https://i.ibb.co/VCQzhX0/XPDC2-RH70-K22-MN-08afd558-a61c-4a63-9171-d3f199738e9f.png');
+--homeImageSize: cover;
+--backgroundColor: #000000FF;
+--backgroundImage: url('https://i.ibb.co/BNFsSyJ/2944142.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.4;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
